@@ -5,7 +5,7 @@
 Strong in design and integration with intuitive problem-solving skills. Proficient in C++, and Python. And familiar with JAVA, Dart, JS. Passionate about implementing and launching new projects. Ability to translate business requirements into technical solutions. Looking to start the career as an entry-level software engineer with a reputed firm driven by technology.
 Thanks for looking at my profile I wish we will meet and work together happy coding.
 
-Skills: C++ / Python / Dart / HTML / CSS / JAVA / JS / Django / Flutter / VueJs
+Skills: C++ / Python / Dart / HTML / CSS / JAVA / JS / Django / Flutter / Reactjs / VueJs
 
 - 🔭 I’m currently working on a forum website project for the curious students and freshers in tech community with the help of Django Rest and nuxt 3. 
 - 🌱 I’m currently learning Nuxt 3. 
